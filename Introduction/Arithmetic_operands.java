@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Arithmetic_Operators{
+public class Arithmetic_operands{
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter the value of a and b : ");

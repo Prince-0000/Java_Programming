@@ -1,3 +1,4 @@
+package Java_Programming.Introduction;
 import java.util.Scanner;
 public class Average_marks {
 	public static void main(String[] args) {
