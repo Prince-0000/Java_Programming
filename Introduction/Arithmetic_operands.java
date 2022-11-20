@@ -1,3 +1,5 @@
+package Java_Programming.Introduction;
+
 import java.util.Scanner;
 public class Arithmetic_operands{
   public static void main(String[] args){
