@@ -1,19 +1,20 @@
-package Java_Programming.Conditionals_and_Loops.Pattern_1;
+package Java_Programming.Conditionals_and_Loops.Pattern;
 
 import java.util.Scanner;
-public class Character_Pattern {
+
+public class Alpha_Pattern {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n, i, j, m;
+        int n, i, j;
         n = sc.nextInt();
+        char ch = 'A';
         for (i = 1; i <= n; i++) {
-            m = i;
             for (j = 1; j <= i; j++) {
-                System.out.print((char) ('A' + m - 1));
-                m++;
+                System.out.print(ch);
             }
             System.out.println();
+            ch = (char) (ch + 1);
         }
     }
 }

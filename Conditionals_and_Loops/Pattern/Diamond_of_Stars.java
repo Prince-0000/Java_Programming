@@ -1,4 +1,4 @@
-package Java_Programming.Conditionals_and_Loops.Pattern_1;
+package Java_Programming.Conditionals_and_Loops.Pattern;
 
 import java.util.Scanner;
 public class Diamond_of_Stars {
