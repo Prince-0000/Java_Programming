@@ -1,7 +1,6 @@
 package Java_Programming.Conditionals_and_Loops;
 
 import java.util.Scanner;
-
 public class Check_Armstrong {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
